@@ -1,9 +1,7 @@
 # About-Me
 
 
-¡Claro! Aquí tienes una breve presentación que podrías usar para tu perfil de GitHub:
-
-¡Hola! Soy [Tu Nombre]
+¡Hola! Soy [Jesus Zamudio]
 Estudiante de Ingeniería de Sistemas | Apasionado por la Seguridad Informática
 ¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante entusiasta de ingeniería de sistemas con un profundo interés en la seguridad informática y la protección de datos. Mi trayectoria académica y mi experiencia demuestran mi compromiso con el aprendizaje continuo y mi disposición para asumir responsabilidades desafiantes.
 
